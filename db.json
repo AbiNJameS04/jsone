@@ -1,0 +1,19 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "Abin",
+        "department": "Java",
+        "email": "abin@example.com",
+        "phone": "1234567890"
+      },
+      {
+        "id": 2,
+        "name": "Feril",
+        "department": "Java",
+        "email": "feril@23.com",
+        "phone": "9876540000"
+      }
+    ]
+  }
+  
